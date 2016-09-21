@@ -150,8 +150,10 @@
     <ClInclude Include="targetver.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Lab_1_7.cpp" />
-    <ClCompile Include="stdafx.cpp" />
+    <ClCompile Include="fileFunc.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="matrixFunc.cpp" />
+    <ClCompile Include="sortFunc.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
